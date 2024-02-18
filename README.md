@@ -31,7 +31,7 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
 
 ## Website Content
-The poem is called [_The Night_](https://englishverse.com/poems/night_blake) by William Blake. He is an English 18th Century Romantic Poet, and is consider one of the greatest artistic and literary genius of his time. His poem is about the sun setting, saying goodbye to its light and bring in the night, which takes over. But others have interuptteded it to be about life itself.
+The poem is called [_The Night_](https://englishverse.com/poems/night_blake) by William Blake. He is an English 18th Century Romantic Poet, and is consider one of the greatest artistic and literary genius of his time. His poem is about the sun setting, saying goodbye to its light and bring in the night, which takes over. But others have interpretted it to be about life itself.
 
 The picture was taken by Max Saeling on Upsplash [Click here!](https://unsplash.com/photos/trees-under-starry-sky-ef0sXQtnCYU)
 
