@@ -14,15 +14,13 @@ h1 {
   text-align: center;
 }
 
-body{
-   background-image: url(https://images.unsplash.com/photo-1518889735218-3e3a03fd3128?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-  background-size:contain;
+.poem__page{
+  background-image: url(https://images.unsplash.com/photo-1518889735218-3e3a03fd3128?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size:cover;
   color:var(--gray-0);
-
+  text-align:center;
 }
-.poem__header{
 
-}
 .poem__title{
   color:var(--gray-0);
 }
@@ -33,10 +31,12 @@ body{
 
 .poem__stanzas{
   color:var(--gray-0);
-  text-alig
-
+  font-size:var(--font-size-fluid-3);
 }
 
 .poem__information{
-  text-align:center;
+  text-align: center;
+}
+hr{
+  
 }
