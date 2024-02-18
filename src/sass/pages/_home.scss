@@ -4,7 +4,6 @@
 
 body {
   font-family: type.$font;
-  background-color: var.$bg-very-light;
   width: min(100% - 2rem, 60ch);
   margin-inline: auto;
   margin-block: 4rem;
@@ -13,4 +12,31 @@ body {
 h1 {
   color: var.$primary-color;
   text-align: center;
+}
+
+body{
+   background-image: url(https://images.unsplash.com/photo-1518889735218-3e3a03fd3128?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size:contain;
+  color:var(--gray-0);
+
+}
+.poem__header{
+
+}
+.poem__title{
+  color:var(--gray-0);
+}
+
+.poem__author{
+  color:var(--gray-0);
+}
+
+.poem__stanzas{
+  color:var(--gray-0);
+  text-alig
+
+}
+
+.poem__information{
+  text-align:center;
 }
